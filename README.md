@@ -55,7 +55,7 @@ The system architecture connects end-devices, a microcontroller (ESP8266), a clo
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/IoT-Based-Flood-Monitoring-System.git
+   git clone https://github.com/dmpcd/IoT-Based-Flood-Monitoring-System.git
    ```
 2. Open the Arduino IDE and upload the code to the NodeMCU.
 3. Set up Node-RED flows for data visualization and alerts.
