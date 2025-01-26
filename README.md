@@ -67,7 +67,9 @@ The system architecture connects end-devices, a microcontroller (ESP8266), a clo
 3. Receive SMS alerts during flood risks.
 
 ## Project Demonstration
-![System Diagram]("D:\GitHub\IoT-Based-Flood-Monitoring-System\IoT-Based-Flood-Monitoring-System\Pictures\Final Product at the Demonstration.jpg")
+![System Diagram]
+![Final Product at the Demonstration](https://github.com/user-attachments/assets/6f91a882-15da-40e8-bacb-8c7a2314d89e)
+
 
 ## Team Members
 - De Zoysa A.K.N. - 210108C
