@@ -68,8 +68,7 @@ The system architecture connects end-devices, a microcontroller (ESP8266), a clo
 
 ## Project Demonstration
 ![System Diagram]
-![Final Product at the Demonstration](https://github.com/user-attachments/assets/6f91a882-15da-40e8-bacb-8c7a2314d89e)
-
+![Final Product at the Demonstration](https://github.com/user-attachments/assets/8bdba4e0-0cb5-47f9-8b00-0aaa33e83691)
 
 ## Team Members
 - De Zoysa A.K.N. - 210108C
